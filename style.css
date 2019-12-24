@@ -1,0 +1,28 @@
+.modal-footer1 {
+    
+  /*background-color: #4CAF50;*/
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  /*display: inline-block;*/
+  font-size: 30px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.search-main{
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 5%;
+}
+
+.container1 {
+	padding-right: 20%;
+	padding-left: 20%;
+	padding-bottom: 10%;
+	margin-right: auto;
+	margin-left: auto
+}
+
